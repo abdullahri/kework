@@ -1,0 +1,212 @@
+[
+  {
+    "name": "xyz",
+    "email": "xyz@gmail.com",
+    "Password": "$2a$10$LoSiWux/TwHe2IedVSI4yedVwiTJC8L3UFybSYcpYuLUXv3o3Y8H6",
+    "Role": "DEVELOPER",
+    "_id": "66d6c75cb417385bf8464568"
+  },
+  {
+    "name": "xy",
+    "email": "xy@gmail.com",
+    "Password": "$2a$10$R9TPWHKri8VqcwZz7RJDpuoWZTenHAbu6GZYuqTt7MofAZZow0VzS",
+    "Role": "DEVELOPER",
+    "_id": "66d6d32f9714d365a17a3163"
+  },
+  {
+    "name": "x",
+    "email": "x@gmail.com",
+    "Password": "$2a$10$oLEYA6TbvARdym9tu3K0jeplbX981GdQJBStcJV0NvCtjomMUiMhK",
+    "Role": "DEVELOPER",
+    "_id": "66d6d434efe4488b6493d3bc"
+  },
+  {
+    "name": "abdullah1254",
+    "email": "abdullah1254@gmail.com",
+    "Password": "$2a$10$jaekWj0GxH/g1r1NX8U.8.xG6vWPbIZmosCfgYxVZiP8b.yqZ0Wcq",
+    "Role": "DEVELOPER",
+    "_id": "66d6d4614185cf114cb88b42"
+  },
+  {
+    "name": "anas1234",
+    "email": "anas1234@gmail.com",
+    "Password": "$2a$10$LUFfzinBRhImhP6fvfRrzuAeI3ipFsHXjw.9OuU7v12HvqJ0ual7y",
+    "Role": "DEVELOPER",
+    "_id": "66d6d49e03da5969c41d0237"
+  },
+  {
+    "name": "sirhammadasif",
+    "email": "sirhammadasif@gmail.com",
+    "Password": "$2a$10$nlaVdYLli4etycAY7yf6vOyVj9yKU4mMBsbdoQOS1C9jKOqlzNTuu",
+    "Role": "DEVELOPER",
+    "_id": "66d6d4df2c5b440b74288398"
+  },
+  {
+    "name": "nomankhan",
+    "email": "nomankhan@gmail.com",
+    "Password": "$2a$10$WaOC43reLr4pQS3Ziq0O/eecQe86GsGskJnnKfmUq6Vl9bF.o67rS",
+    "Role": "DEVELOPER",
+    "_id": "66d6d51817db16092312a249"
+  },
+  {
+    "name": "rabah",
+    "email": "rabah@gmail.com",
+    "Password": "$2a$10$0YE7ujc193775e2IrvBfGOTncGW3wQbWgdH8ncScr/6XKnKOausyS",
+    "Role": "teacher",
+    "_id": "66d6d5cd22c3e9487fef9472"
+  },
+  {
+    "name": "khan",
+    "email": "khan@gmail.com",
+    "Password": "$2a$10$r3LGI8YVNyTw2eb6cVTkneZbqmTws59tP8aNwUDi1r07K8k2BXPOG",
+    "Role": "DEVELOPER",
+    "_id": "66d6d60dc51a95c1e27089da"
+  },
+  {
+    "name": "salman",
+    "email": "salman@gmail.com",
+    "Password": "$2a$10$wd7tFwEpVQzimi8UpIpEn.XMWvo/PLv7jCvBlR0yfah3qrkdxGseK",
+    "Role": "DEVELOPER",
+    "_id": "66d6d64a2be8849767ad6915"
+  },
+  {
+    "name": "tabish",
+    "email": "tabish@gmail.com",
+    "Password": "$2a$10$Y1sl74OusVv.G4RRroJLiu1BH839gHtKE9seaQV/lYFsvI1uFroZq",
+    "Role": "KE employ",
+    "_id": "66d6dba86c2d92bbbd443a5e"
+  },
+  {
+    "name": "saim",
+    "email": "saim@gmail.com",
+    "Password": "$2a$10$7kbGN1EA/CWiex9FKeFGOO8XYQWTE07Gs9W1aZb2ZpGyFb0B97IDK",
+    "Role": "batsman",
+    "_id": "66d6dc25b05e8cf0a41e59d9"
+  },
+  {
+    "name": "salma",
+    "email": "salma@gmail.com",
+    "Password": "$2a$10$Aj/iJzZyPyymVY5wMHhp3uFtz.nZqyVItErpbOAWk8mvLVJ/aJUDe",
+    "Role": "DEVELOPER",
+    "_id": "66d6e610239a3bf3b862223d"
+  },
+  {
+    "name": "salm",
+    "email": "salm@gmail.com",
+    "Password": "$2a$10$RpTBF0UQrVqfe6kkzOm5rOs/9MWA8X0cnXbvn1GSlkwpJbPvlR.6G",
+    "Role": "DEVELOPER",
+    "_id": "66d6f0bd95ba95bbb8244c4d"
+  },
+  {
+    "name": "sal",
+    "email": "sal@gmail.com",
+    "Password": "$2a$10$64CiCk2ARigWsnC/3dTxAemmOI5SUG6GbV.rBFTSaY.IlPM.MqZ1a",
+    "Role": "DEVELOPER",
+    "_id": "66d7ece2bea2891876a1a5ab"
+  },
+  {
+    "name": "sa",
+    "email": "sa@gmail.com",
+    "Password": "$2a$10$8Q8PggS3td/2Xck02zSc9OdA0QrtSVoK5VHXtmBe6trrPNT8odlIi",
+    "Role": "DEVELOPER",
+    "_id": "66d7f51a745376076fe578cc"
+  },
+  {
+    "name": "zulfiqar",
+    "email": "zulfiqar@gmail.com",
+    "Password": "$2a$10$7xtDnK/IF16k1dQxVNSlRO8AHLrLcHXSKiE5JXdWM7NToTxfUc.Uu",
+    "Role": "DEVELOPER",
+    "_id": "66d7f88c9ba7c7729758a814"
+  },
+  {
+    "name": "amirkhan",
+    "email": "amirkhan@gmail.com",
+    "Password": "$2a$10$E3nLCAKvU4aD3/8xUtEjauPshhPjt3OHLnwDQ7a2z7D8o/HjJgThG",
+    "Role": "actor",
+    "_id": "66d7fcdd715163c41b259136"
+  },
+  {
+    "name": "owais",
+    "email": "owais@gmail.com",
+    "Password": "$2a$10$/l9O47ZlHgUGTEZ.2Qjz4O.DNB9J0VtZEy5M9llCNLWT21FikY1PW",
+    "Role": "DEVELOPER",
+    "_id": "66d80918d3cc64c356872d43"
+  },
+  {
+    "name": "atique",
+    "email": "atique@gmail.com",
+    "Password": "$2a$10$kzR1cWCP75z9o7qMt5yveu3l57wBMI1I/jb7UVJCabBrrenavUqMO",
+    "Role": "civial engineer",
+    "_id": "66d809aac7314412e7641b18"
+  },
+  {
+    "name": "sami",
+    "email": "sami@gmail.com",
+    "Password": "$2a$10$XZn2TexbybWohAhJxpxSe.hcGF9/farmA8TKV/yj/RhsIsBb3ur7K",
+    "Role": "admin",
+    "_id": "66d83b9ebcd0bc14bb99096e"
+  },
+  {
+    "name": "nabeel",
+    "email": "nabeel@gmail.com",
+    "Password": "$2a$10$X/X7Zg/GOOulC5.3fu8.k.P/LkDyds4GaCBDeIAPxPfj8xGa33v6u",
+    "Role": "banker",
+    "_id": "66d83bed46d768b074c21a87"
+  },
+  {
+    "name": "abid ",
+    "email": "abid@gmail.com",
+    "Password": "$2a$10$ONFkJPv6DLaRMaGWPWcP5OqjtCGkoeJFHoGyXO5oGvAw7O14jluwq",
+    "Role": "software engineer",
+    "_id": "66d93d34592a823f126e4047"
+  },
+  {
+    "name": "omiad",
+    "email": "omiad@gmail.com",
+    "Password": "$2a$10$wlvUH7XU.1HtaVMbKpYZ3OhppxUGhFsdkCdDunvZ/yCtkrwkGEynS",
+    "Role": "DEVELOPER",
+    "_id": "66d93d99da3a3e4f59468189"
+  },
+  {
+    "name": "quiad-e-azam",
+    "email": "azam@gmail.com",
+    "Password": "$2a$10$SUnFPN7PL3GpNoOAuY0.Y.jcMpZ8sLDSeW2c8rDV0JxWO6o8Xw4a2",
+    "Role": "founder",
+    "_id": "66d93e22c2de55f75a62b87b"
+  },
+  {
+    "name": "muhammadaliwaris",
+    "email": "muhammadaliwaris@gmail.com",
+    "Password": "$2a$10$ZikML0XSczu0hBHMPEUAyOCafNv9lrsC.Uh2DthAwBmRk6y0Q8K9y",
+    "Role": "Ruler",
+    "_id": "66d95f82c403cf829d827200"
+  },
+  {
+    "name": "zaid",
+    "email": "zaid@gmail.com",
+    "Password": "$2a$10$Uare8tutaMIM7PrdDyB6UuRnBdh0iNvBlPsYNE8sRqNcHvfQK7I1S",
+    "Role": "engineer",
+    "_id": "66d97c12ff89bcd7867d6495"
+  },
+  {
+    "name": "omia",
+    "email": "omia@gmail.com",
+    "Password": "$2a$10$nFH8R4q2r.Eg0kQ84SvKKucWmlxwXtR0usls60hKwYZO4NHQb10.S",
+    "Role": "DEVELOPER",
+    "_id": "66dad69a7939f8935e03cfab"
+  },
+  {
+    "name": "azhar",
+    "email": "azhar@gmail.com",
+    "Password": "$2a$10$86eyv4iPSH6IFkVC35NhnuvUJAOD7YcUHiHr4A4/lu/P4ZX5pyDT6",
+    "Role": "admin",
+    "_id": "66dad71423ffa339fe6357e5"
+  },
+  {
+    "name": "amin",
+    "email": "amin@gmail.com",
+    "Password": "$2a$10$V09G7rG9Zmxjc8UX6pLuv.3KYD7uY7cVlOvp31gCPTi/yczzRNqmS",
+    "Role": "student",
+    "_id": "66dadbf45fc2081c3278a21e"
+  }
+]

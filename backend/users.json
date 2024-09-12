@@ -208,5 +208,47 @@
     "Password": "$2a$10$V09G7rG9Zmxjc8UX6pLuv.3KYD7uY7cVlOvp31gCPTi/yczzRNqmS",
     "Role": "student",
     "_id": "66dadbf45fc2081c3278a21e"
+  },
+  {
+    "name": "Anayariaz",
+    "email": "Anayariaz@gmail.com",
+    "Password": "$2a$10$LEWxYbS1SevK.skDHNerjO0RJ/lYIWJxIZGHRJQqZy7TYECoLY7Ui",
+    "Role": "student",
+    "_id": "66de9a9b73d1d363c90918b7"
+  },
+  {
+    "name": "shayan",
+    "email": "shayan@gmail.com",
+    "Password": "$2a$10$cZi7bnlrwa7tZ5ZRqproDu2oGo.9fd7LEyyaWSlRysXWV63TET5Sa",
+    "Role": "employee for codesay",
+    "_id": "66dec3e6a77a2790f015e615"
+  },
+  {
+    "name": "umer",
+    "email": "umer@gmail.com",
+    "Password": "$2a$10$j2la4SrtavW3gSmBdKjW3u01b/o1DPhH0j4E8mqvOEESPpi5/umgu",
+    "Role": "admin",
+    "_id": "66dfeec98bf0af90f694383e"
+  },
+  {
+    "name": "yasir",
+    "email": "yasir@gmail.com",
+    "Password": "$2a$10$4IDi94/gQI6JdgMGByt4rOQxG2DWCjZ0hjqhbMHSI3QdnmTAeJC32",
+    "Role": "admin",
+    "_id": "66e01c72e0855f400e267db5"
+  },
+  {
+    "name": "rana",
+    "email": "rana@gmail.com",
+    "Password": "$2a$10$omKjihgUy/60h1rUNq2jZuoyPKwDlCXX/WNQhu51AC/aLw7SKaVhm",
+    "Role": "rana",
+    "_id": "66e162c6b36f0fb85fd624c5"
+  },
+  {
+    "name": "arsalan",
+    "email": "arsalan@gmail.com",
+    "Password": "$2a$10$IsKceySYtcaB1813o4pjqO46b8gYQ.SPcKBNauZM1MXNKhdrBnDkG",
+    "Role": "admin",
+    "_id": "66e2bae82288ca307077b34f"
   }
 ]
